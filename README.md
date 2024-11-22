@@ -31,3 +31,6 @@ Performance Metrics:
 High accuracy (89.2%) for fraud detection.
 Recall (92.5%) highlights strong ability to minimize false negatives.
 Balanced precision (87.6%) and F1-score (90%).
+tableau link: Fraud detection using tableau | Tableau Public
+![image](https://github.com/user-attachments/assets/f1e39d30-eb8a-4903-8e0a-6d9b4bf4db31)
+
